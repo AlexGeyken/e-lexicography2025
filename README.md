@@ -18,7 +18,8 @@ Tag 1 und 3 finden in Potsdam statt, Tag 2 und Tag 4 per Zoom (s. unten)
 ## Tag 1 (12.9.2024): 
 * 10-12.30 Einführung (Lexikographie, e-Lexicography, DWDS-I)
 * 13.15-14 Praktische E-Lexikographie (DWDS - II)
-* 14-16 (gemeinsam mit Anja Pfeiffer, BBAW/ZDL), DWDS-Atelier: Workflow der Artikelerstellung im DWDS sowie gemeinsames Erstellen eines neuen DWDS-Wörterbuchartikels.
+* 14-15.45 (gemeinsam mit Anja Pfeiffer, BBAW/ZDL), DWDS-Atelier: Workflow der Artikelerstellung im DWDS sowie gemeinsames Erstellen eines neuen DWDS-Wörterbuchartikels.
+* 15.45-16.00 Fragen zu Referaten
 
 ## Tag 2 (13.9.2024):
 * 10-11.15 Mikrostruktur: Definitionen im Wörterbuch: a) Oxford (s. Atkins/Rundell); b) DWDS
@@ -27,15 +28,14 @@ Tag 1 und 3 finden in Potsdam statt, Tag 2 und Tag 4 per Zoom (s. unten)
 * 15.30-16: Vergabe Referate
 
 ## Tag 3 (19.9.2024):
-* 10-12.30 Referate
-* 11.30-12.15 Referat
-* 13.15-15.45 Dr. Andreas Nolda Regionalsprachen im deutschsprachigen Raum 
+* 10-12.30 REFERATE
+* 13.15-15.45 Dr. Andreas Nolda Regionaler Wortschatz und Regionalkorpora 
 
 ## Tag 4 (20.9.2024):
 * 10-11 Von Kollokationen zu Wortprofilen
-* 11-12 REFERAT  
-* 13-14 REFERAT
-* 15-16 Abschlussdiskussion
+* 11-12 REFERATE  
+* 13-14.30 REFERATE
+* 14.30-15.00 Abschlussdiskussion
 
 ## Weiterführende Quellen:
 * The Oxford Guide to Practical Lexicography. 2008. B.T. Sue Atkins and Michael Rundell. Oxford: Oxford University Press. Pp. 552. 
@@ -51,7 +51,7 @@ Tag 1 und 3 finden in Potsdam statt, Tag 2 und Tag 4 per Zoom (s. unten)
 **[5]** Robert Lev, Sascha Wolfer. What lexical factors drive look-ups in Wiktionary (Proc. elex 2023)
  (https://journals.sagepub.com/doi/full/10.1177/21582440231219101 bzw. https://journals.sagepub.com/doi/epub/10.1177/21582440231219101)
 
-**[n]. Develop chatGPT dictionary "definer" that outputs for a given headword a simplified definition in "Leichter Sprache"  (benotete Prüfungsleistung)
+**[n]. Entwickle mit Hilfe von chatGPT ein Glossarmodul, welches ausgewählte Wörter in "Leichter Sprache" beschreibt  (benotete Prüfungsleistung)
 
 
 
