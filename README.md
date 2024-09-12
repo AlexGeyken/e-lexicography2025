@@ -1,7 +1,6 @@
 # e-lexiocgraphy24
 
-# FromDict2GPT_WS2023
-Vorbemerkung: 
+## Vorbemerkung: 
 Dieses Blockseminar gibt einen Überblick über die Geschichte der Lexikographie vom 19. Jh. bis heute, insbesondere mit Blick auf die technischen Entwicklungen.
 
 (1) Das 19. Jh. ist das Zeitalter der "Großwörterbücher". Die Kultursprachen der Welt beginnen mit der "Vermessung der Sprache", sammeln Belege für Bedeutungen von Wörtern und verfassen auf dieser Basis große historische Wörterbücher. Aus dieser Zeit stammen das Oxford English Dictionary und das Grimmsche Wörterbuch.
