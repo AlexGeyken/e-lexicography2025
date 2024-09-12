@@ -45,12 +45,16 @@ Tag 1 und 3 finden in Potsdam statt, Tag 2 und Tag 4 per Zoom (s. unten)
 
 **[1]** Adam Kilgarriff, Miloš Husák, Katy McAdam, Michael Rundell and Pavel Rychlý (2008). GDEX: Automatically finding good dictionary examples in a corpus. In Proceedings of the 13th EURALEX International Congress. Spain, July 2008, pp. 425–432. (https://www.sketchengine.eu/wp-content/uploads/2015/05/GDEX_Automatically_finding_2008.pdf). Dazu auch die Konfigurations-Datei auf sketchengine.eu: https://www.sketchengine.eu/syntax-of-gdex-configuration-files/ bzw. Implementierung im DWDS-Kontext: https://github.com/ulf1/quaxa
 
-**[4]** Miloš Jakubíček, Michael Rundell: The end of lexicography: Can ChatGPT outperform current tools for post-editing lexicography?  (Proc. elex 2023: p 518-533)
+**[2]** Miloš Jakubíček, Michael Rundell: The end of lexicography: Can ChatGPT outperform current tools for post-editing lexicography?  (Proc. elex 2023: p 518-533)
 
 **[5]** Robert Lev, Sascha Wolfer. What lexical factors drive look-ups in Wiktionary (Proc. elex 2023)
  (https://journals.sagepub.com/doi/full/10.1177/21582440231219101 bzw. https://journals.sagepub.com/doi/epub/10.1177/21582440231219101)
 
-**[n]. Entwickle mit Hilfe von chatGPT ein Glossarmodul, welches ausgewählte Wörter in "Leichter Sprache" beschreibt  (benotete Prüfungsleistung)
+ **[4]** Literatur: Leichte Sprache. DIN SPEC (https://www.dinmedia.de/de/technische-regel-entwurf/din-spec-33429/364785446)
+
+ ...
+
+**[n]. Benotete Prüfungsleistung: Entwickle mit Hilfe von chatGPT ein Glossarmodul, welches ausgewählte Wörter in "Leichter Sprache" beschreibt  (benotete Prüfungsleistung)
 
 
 
