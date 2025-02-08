@@ -12,7 +12,7 @@ Das Blockseminar e-lexicography gibt einen Überblick über die Geschichte der L
 (4) Mit Entwicklung von LLM - insbesondere durch den chatGPT-Moment (Open-AI, Nov. 2022) wird ein weiteres Kapitel für die Lexikographie geöffnet. Seitdem wurden eine Vielzahl weiterer Modelle, u.a. von Google, Meta, erzeugt. Mit diesen mächtigen Modellen ist es erstmals möglich, Teile von Wörterbuchartikeln, teilweise sogar gesamte Wörterbuchartikel automatisch durch diese Systeme generieren zu lassen. Die Veröffentlichungen für die letzte EURALEX-Konferenz im Oktober 2024 zeigt, wie sehr das Thema KI mittlerweile auch in der Lexikographie Einzug gehalten hat: knapp 15% aller Einreichungen behandeln Themen mit Bezug zu GPTs bzw. LLMs.
 
 Das *Kursprogramm* umfasst vier Termine, jeweils zwischen 10 und 16 Uhr.
-Tag 1 und 3 finden in Potsdam statt, Tag 2 per Zoom (s. unten); Tag 4 entweder in Präsenz oder per Zoom (wird an Tag 1 entschieden)
+Tag 1 und 3 finden in Potsdam/Golm in Präsenz statt, Tag 2 und 4 per Zoom 
 
 ## Tag 1 (13.2.2025): 
 * 10.15-12.30 Einführung: Kurzer geschichtlicher Abriss der Lexikographie seit dem 19. Jh. sowie der e-Lexicography im 21. Jh.
