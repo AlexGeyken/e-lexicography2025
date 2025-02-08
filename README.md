@@ -20,7 +20,7 @@ Tag 1 und 3 finden in Potsdam statt, Tag 2 per Zoom (s. unten); Tag 4 entweder i
 * 15.45-16.00 Fragen zur Referatsvergabe
 
 ## Tag 2 (14.2.2025): 
-* ab 9.55 im Zoom-Raum:  ** tbd **
+* ab 9.55 im Zoom-Raum:  ** url folgt **
 * 10-11 Praktische E-Lexikographie II: Die DWDS-Plattform - Wörterbuch, Korpus, Statistische Auswertungen, s.a. https://www.dwds.de/d
 * 11.15-13.15 Axel Herold (BBAW/ZDL): Modellierung von lexikalischen Informationen (inkl. Einführung in *TEI* und *TEI Lex-0* sowie die DWDS-Wörterbuchstruktur mit praktischen Übungen: Voraussetzung hierfür ist ein bereits vorinstallierter XML-Editor)
 * 13.45-15.00 Praktische E-Lexikographie III Mikrostruktur: Definitionen im Wörterbuch: a) Oxford (s. Atkins/Rundell); 
@@ -31,7 +31,7 @@ Tag 1 und 3 finden in Potsdam statt, Tag 2 per Zoom (s. unten); Tag 4 entweder i
 * 13.30-15.45 REFERATE 
 
 ## Tag 4 (21.2.2025):
-* ab 10.10 im Zoom-Raum: ** tbd **
+* ab 10.10 im Zoom-Raum: ** url folgt **
 * 10.15-11.15 Definitionen im DWDS und Templates, Teil II
 * 11.15-13.00 REFERATE  
 * 14-15.30: tbd
