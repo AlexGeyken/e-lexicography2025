@@ -23,16 +23,16 @@ Tag 1 und 3 finden in Potsdam/Golm in Präsenz statt, Tag 2 und 4 per Zoom
 * ab 9.55 im Zoom-Raum:  ** url folgt **
 * 10-11 Praktische E-Lexikographie II: Die DWDS-Plattform - Wörterbuch, Korpus, Statistische Auswertungen, s.a. https://www.dwds.de/d
 * 11.15-13.15 Axel Herold (BBAW/ZDL): Modellierung von lexikalischen Informationen (inkl. Einführung in *TEI* und *TEI Lex-0* sowie die DWDS-Wörterbuchstruktur mit praktischen Übungen: Voraussetzung hierfür ist ein bereits vorinstallierter XML-Editor)
-* 13.45-15.00 Praktische E-Lexikographie III Mikrostruktur: Definitionen im Wörterbuch: a) Oxford (s. Atkins/Rundell); 
+* 14-00-15.00 Kollokationen und Mehrwortausdrücke im DWDS
 * 15.00-16.00 Übungen zum Vortrag Nolda
 
 ## Tag 3 (20.2.2025):
-* 10.15-12.30 (gemeinsam mit Anja Pfeiffer, BBAW/ZDL): "DWDS-Atelier - Workflow der Artikelerstellung im DWDS sowie gemeinsames Erstellen eines neuen DWDS-Wörterbuchartikels: *öffentlicher Bücherschrank* 
+* 10.15-12.30 (gemeinsam mit Anja Pfeiffer, BBAW/ZDL): "DWDS-Atelier - Workflow der Artikelerstellung im DWDS sowie gemeinsames Erstellen eines DWDS-Wörterbuchartikels  
 * 13.30-15.45 REFERATE 
 
 ## Tag 4 (21.2.2025):
 * ab 10.10 im Zoom-Raum: ** url folgt **
-* 10.15-11.15 Definitionen im DWDS und Templates, Teil II
+* 10.15-11.15 Definitionen im DWDS;  Praktische E-Lexikographie III Mikrostruktur: Definitionen im Wörterbuch: a) Oxford (s. Atkins/Rundell);
 * 11.15-13.00 REFERATE  
 * 14-15.30: tbd
 
