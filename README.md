@@ -14,27 +14,29 @@ Das Blockseminar e-lexicography gibt einen Überblick über die Geschichte der L
 Das *Kursprogramm* umfasst vier Termine, jeweils zwischen 10 und 16 Uhr.
 Tag 1 und 3 finden in Potsdam/Golm in Präsenz statt, Tag 2 und 4 per Zoom 
 
-## Tag 1 (13.2.2025): 
+## Tag 1 (13.2.2025): Golm, Haus 14, R.0.09 
 * 10.15-12.30 Einführung: Kurzer geschichtlicher Abriss der Lexikographie seit dem 19. Jh. sowie der e-Lexicography im 21. Jh.
 * 13.30-15.45 Andreas Nolda - BBAW/ZDL: "Daten zur diatopischen Variation im deutschen Wortschatz: Das ZDL-Regionalkorpus"
 * 15.45-16.00 Fragen zur Referatsvergabe
 
-## Tag 2 (14.2.2025): 
+## Tag 2 (14.2.2025): Zoom
 * ab 10.00 Zoom Raum: https://us02web.zoom.us/j/83935231418?pwd=DIX9ynIxiELCY9lclERCnPkfDznwVi.1  
-* 10.15-11.15 Praktische E-Lexikographie II: Die DWDS-Plattform - Wörterbuch, Korpus, Statistische Auswertungen, s.a. https://www.dwds.de/d
+* 10.15-11.15 Praktische E-Lexikographie I: Die DWDS-Plattform - Wörterbuch, Korpus, Statistische Auswertungen, s.a. https://www.dwds.de/d
 * 11.15-13.15 Axel Herold (BBAW/ZDL): Modellierung von lexikalischen Informationen (inkl. Einführung in *TEI* und *TEI Lex-0* sowie die DWDS-Wörterbuchstruktur mit praktischen Übungen: Voraussetzung hierfür ist ein bereits vorinstallierter XML-Editor)
-* 14-00-15.00 Kollokationen und Mehrwortausdrücke im DWDS
+* 14-00-15.00 Praktische E-Lexikographie II: Mikrostruktur, Definitionen & Templates
 * 15.00-16.00 Hausaufgabe zur diatopischen Variation (cf. Tag 1: Nolda)
 
-## Tag 3 (20.2.2025):
+## Tag 3 (20.2.2025): Golm, Haus 14, R.0.09
 * 10.15-12.30 (gemeinsam mit Anja Pfeiffer, BBAW/ZDL): "DWDS-Atelier - Workflow der Artikelerstellung im DWDS sowie gemeinsames Erstellen eines DWDS-Wörterbuchartikels  
-* 13.30-15.45 REFERATE 
+* 13.15-14.30 (Katrin Siebel/ Bernhard Roll, BBAW/ZDL): Mehrwortausdrücke *oder* Praktische E-Lexikographie III (Kookkurrenzen und Kollokationen)
+* 14.30-16.00 REFERATE 1-3
 
-## Tag 4 (21.2.2025):
-* ab 10.10 im Zoom-Raum: ** url folgt **
-* 10.15-11.15 Definitionen im DWDS;  Praktische E-Lexikographie III Mikrostruktur: Definitionen im Wörterbuch: a) Oxford (s. Atkins/Rundell);
-* 11.15-13.00 REFERATE  
-* 14-15.30: tbd
+## Tag 4 (21.2.2025): Zoom
+* ab 10.00 im Zoom-Raum: ** url folgt **
+* 10.00-11.15 (Katrin Siebel/ Bernhard Roll, BBAW/ZDL): Mehrwortausdrücke *oder* Praktische E-Lexikographie III (Kookkurrenzen und Kollokationen)
+* 11.15-12.45 REFERATE 4-6 
+* 13.30-14.30 REFERATE 7-8
+* 14.30-15.30 Gregor Middell Arbeitsumgebung des DWDS und neuere Entwicklungen der Belegextraktion
 
-## Themen für Referate/Hausarbeiten: 
-folgt
+## Themen für Referate/Hausarbeiten: folgt
+
