@@ -59,5 +59,5 @@ Tag 1 und 3 finden in Potsdam/Golm in Präsenz statt, Tag 2 und 4 per Zoom.
 
 [8] Literatur: Leichte Sprache. DIN SPEC (https://www.dinmedia.de/de/technische-regel-entwurf/din-spec-33429/364785446)
 
-**Benotete Prüfungsleistung** - zusätzlich zu einem Referat eine Projektarbeit: -- Vorschlag: Entwickle mit Hilfe von Heuristiken (0-shot-prompting, few-shot-prompting, chain-of-thought) sowie einfachen RAG-Techniken auf der Basis der API eines LLMs (Open-AI) einen Definitionsgenerierer, a) welcher möglichst in seiner Qualität mit ausgewählten DWDS-Definitionen übereinstimmt, b) welcher ausgewählte Wörter in "Leichter Sprache" beschreibt. Ausführliche Beschreibung folgt.
+
 
