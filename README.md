@@ -9,7 +9,7 @@ Das Blockseminar e-lexicography gibt einen Überblick über die Geschichte der L
 
 (3) Ein kompletter Wandel der traditionellen Wörterbucharbeit wurde durch den "digital turn" ausgelöst. Dieser betraf (a) die Analyse der Wörterbuchartikel mit Hilfe von sehr großen digitalen Korpora anstelle der Belegarchive. (b) die Publikationsform von Wörterbüchern: Wörterbücher werden mittlerweile in klassischer Form kaum mehr publiziert, sondern entsprechen lexikalischen Informationssystemen, die über das Internet zugänglich sind. 
 
-(4) Mit Entwicklung von LLM - insbesondere durch den chatGPT-Moment (Open-AI, Nov. 2022) wird ein weiteres Kapitel für die Lexikographie geöffnet. Seitdem wurden eine Vielzahl weiterer Modelle, u.a. von Google, Meta, erzeugt. Mit diesen mächtigen Modellen ist es erstmals möglich, Teile von Wörterbuchartikeln, teilweise sogar gesamte Wörterbuchartikel automatisch durch diese Systeme generieren zu lassen. Die Veröffentlichungen für die letzte EURALEX-Konferenz im Oktober 2024 zeigt, wie sehr das Thema KI mittlerweile auch in der Lexikographie Einzug gehalten hat: knapp 15% aller Einreichungen behandeln Themen mit Bezug zu GPTs bzw. LLMs.
+(4) Mit Entwicklung von LLM - insbesondere durch den "chatGPT-Moment" (Open-AI, Nov. 2022) wird ein weiteres Kapitel für die Lexikographie geöffnet. Seitdem wurden eine Vielzahl weiterer Modelle, u.a. von Google, Meta, erzeugt. Mit diesen mächtigen Modellen ist es erstmals möglich, Teile von Wörterbuchartikeln, teilweise sogar gesamte Wörterbuchartikel automatisch durch diese Systeme generieren zu lassen. Die Veröffentlichungen für die letzte EURALEX-Konferenz im Oktober 2024 zeigt, wie sehr das Thema KI mittlerweile auch in der Lexikographie Einzug gehalten hat: knapp 15% aller Einreichungen behandeln Themen mit Bezug zu GPTs bzw. LLMs.
 
 Das *Kursprogramm* umfasst vier Termine, jeweils zwischen 10 und 16 Uhr.
 Tag 1 und 3 finden in Potsdam/Golm in Präsenz statt, Tag 2 und 4 per Zoom.
@@ -29,12 +29,12 @@ Tag 1 und 3 finden in Potsdam/Golm in Präsenz statt, Tag 2 und 4 per Zoom.
 
 ## Tag 3 (20.2.2025): Golm, Haus 14, R.0.09
 * 10.15-12.30 (Anja Pfeiffer, BBAW/ZDL): "DWDS-Atelier - Workflow der Artikelerstellung im DWDS sowie gemeinsames Erstellen eines DWDS-Wörterbuchartikels  
-* 13.15-14.30 (Katrin Siebel/ Bernhard Roll, BBAW/ZDL): Mehrwortausdrücke *oder* Praktische E-Lexikographie III (Kookkurrenzen und Kollokationen)
+* 13.15-14.30 (Katrin Siebel / Bernhard Roll, BBAW/ZDL): Mehrwortausdrücke 
 * 14.30-16.00 REFERATE 1-3
 
 ## Tag 4 (21.2.2025): Zoom
 * 10.00 in folgendem Zoom-Raum: https://us02web.zoom.us/j/83260937546?pwd=pQenASQjKnMoeQM8O44eSh0OfB3gcx.1
-* 10.00-11.15 Praktische E-Lexikographie III (Kookkurrenzen und Kollokationen) *oder* (Katrin Siebel/ Bernhard Roll, BBAW/ZDL): Mehrwortausdrücke 
+* 10.00-11.15 Praktische E-Lexikographie III (Kookkurrenzen und Kollokationen)  
 * 11.15-12.45 REFERATE 4-6 
 * 13.30-14.30 REFERATE 7-8
 * 14.30-15.30 (Gregor Middell BBAW/ZDL): Technische Aspekte der Arbeitsumgebung des DWDS und neuere Entwicklungen zur Belegextraktion
