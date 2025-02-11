@@ -36,7 +36,7 @@ Tag 1 und 3 finden in Potsdam/Golm in Präsenz statt, Tag 2 und 4 per Zoom
 * 10.00-11.15 (Katrin Siebel/ Bernhard Roll, BBAW/ZDL): Mehrwortausdrücke *oder* Praktische E-Lexikographie III (Kookkurrenzen und Kollokationen)
 * 11.15-12.45 REFERATE 4-6 
 * 13.30-14.30 REFERATE 7-8
-* 14.30-15.30 Gregor Middell Arbeitsumgebung des DWDS und neuere Entwicklungen der Belegextraktion
+* 14.30-15.30 (Gregor Middell BBAW/ZDL) Technische Aspekte der Arbeitsumgebung des DWDS und neuere Entwicklungen zur Belegextraktion
 
-## Themen für Referate/Hausarbeiten: folgt
+## Themen für Referate/Hausarbeiten: folgen...
 
