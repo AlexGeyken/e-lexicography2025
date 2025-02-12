@@ -25,7 +25,7 @@ Tag 1 und 3 finden in Potsdam/Golm in Präsenz statt, Tag 2 und 4 per Zoom.
 * 10.15-11.15 Praktische E-Lexikographie I: Die DWDS-Plattform - Wörterbuch, Korpus, Statistische Auswertungen, s.a. https://www.dwds.de/d
 * 11.15-13.15 (Axel Herold, BBAW/ZDL): Modellierung von lexikalischen Informationen (inkl. Einführung in *TEI* und *TEI Lex-0* sowie die DWDS-Wörterbuchstruktur mit praktischen Übungen: Voraussetzung hierfür ist ein bereits vorinstallierter XML-Editor)
 * 14-00-15.00 Praktische E-Lexikographie II: Mikrostruktur, Definitionen & Templates
-* 15.00-16.00 Hausaufgabe zur diatopischen Variation (cf. Tag 1: Nolda)
+* 15.00-16.00 Hausaufgabe zur diatopischen Variation (cf. Tag 1: Nolda, letzte Folie)
 
 ## Tag 3 (20.2.2025): Golm, Haus 14, R.0.09
 * 10.15-12.30 (Anja Pfeiffer, BBAW/ZDL): "DWDS-Atelier - Workflow der Artikelerstellung im DWDS sowie gemeinsames Erstellen eines DWDS-Wörterbuchartikels  
