@@ -17,7 +17,7 @@ Tag 1 und 3 finden in Potsdam/Golm in Präsenz statt, Tag 2 und 4 per Zoom.
 
 ## Tag 1 (13.2.2025): Golm, Haus 14, R.0.09 
 * 10.15-12.30 Einführung: Kurzer geschichtlicher Abriss der Lexikographie seit dem 19. Jh. sowie der e-Lexicography im 21. Jh.
-* 13.30-15.45 (Andreas Nolda, BBAW/ZDL): "Daten zur diatopischen Variation im deutschen Wortschatz: Das ZDL-Regionalkorpus"
+* 13.30-15.45 (Andreas Nolda, BBAW/ZDL): ["Daten zur diatopischen Variation im deutschen Wortschatz: Das ZDL-Regionalkorpus"](folien_nolda_zdl-regionalkorpus.pdf)
 * 15.45-16.00 Fragen zur Referatsvergabe
 
 ## Tag 2 (14.2.2025): Zoom
