@@ -23,7 +23,11 @@ Tag 1 und 3 finden in Potsdam/Golm in Präsenz statt, Tag 2 und 4 per Zoom.
 ## Tag 2 (14.2.2025): Zoom
 * 10.00 in folgendem Zoom-Raum: https://us02web.zoom.us/j/83935231418?pwd=DIX9ynIxiELCY9lclERCnPkfDznwVi.1  
 * 10.15-11.15 Praktische E-Lexikographie I: Die DWDS-Plattform - Wörterbuch, Korpus, Statistische Auswertungen, s.a. https://www.dwds.de/d
-* 11.15-13.15 (Axel Herold, BBAW/ZDL): Modellierung von lexikalischen Informationen (inkl. Einführung in *TEI* und *TEI Lex-0* sowie die DWDS-Wörterbuchstruktur mit praktischen Übungen: Voraussetzung hierfür ist ein bereits vorinstallierter XML-Editor)
+* 11.15-13.15 (Axel Herold, BBAW/ZDL): Modellierung von lexikalischen Informationen
+  - Einführung in [TEI](https://www.tei-c.org/) und [TEI Lex-0](https://dariah-eric.github.io/lexicalresources/pages/TEILex0/TEILex0.html) sowie die DWDS-Wörterbuchstruktur mit praktischen Übungen
+  - [Foliensatz](TEI-Lex-0/slides-lexical-modeling.pdf)
+  - [Übungsdaten](TEI-Lex-0/) (Lösungen werden nach der Veranstaltung ergänzt)
+  - Voraussetzung ist ein bereits vorinstallierter XML-Editor, z.B. [Oxygen XML Editor](https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html) (30-Tage-Testversion)
 * 14-00-15.00 Praktische E-Lexikographie II: Mikrostruktur, Definitionen & Templates
 * 15.00-16.00 Hausaufgabe zur diatopischen Variation (cf. Tag 1: Nolda, letzte Folie)
 
