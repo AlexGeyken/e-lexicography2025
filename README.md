@@ -43,7 +43,7 @@ Tag 1 und 3 finden in Potsdam/Golm in Präsenz statt, Tag 2 und 4 per Zoom.
 * 10.00 in folgendem Zoom-Raum: https://us02web.zoom.us/j/83260937546?pwd=pQenASQjKnMoeQM8O44eSh0OfB3gcx.1
 * 10.15-11.25 Praktische E-Lexikographie III (Kookkurrenzen und Kollokationen)  
 * 11.30-12.00 REFERAT zu Thema [4]: Amir Safari
-* 12.00-12.30 REFERAT zu Thema [5]: Aleksandra Wroblewska
+* 12.00-12.30 REFERAT zu Thema [5]: Jana Lin Lauruschkus
 * 13.25-13.55 Nachtrag REFERAT zu Thema [6]-[8]: Alexander Geyken 
 * 13.55-14.25 Besprechung Übungsaufgaben (Nolda und DWDS-Korpora)
 * 14.30-15.30 (Gregor Middell BBAW/ZDL): Technische Aspekte der Arbeitsumgebung des DWDS und neuere Entwicklungen zur Belegextraktion
