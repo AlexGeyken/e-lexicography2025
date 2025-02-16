@@ -44,7 +44,7 @@ Tag 1 und 3 finden in Potsdam/Golm in Präsenz statt, Tag 2 und 4 per Zoom.
 * 10.15-11.25 Praktische E-Lexikographie III (Kookkurrenzen und Kollokationen)  
 * 11.30-12.00 REFERAT zu Thema [4]: Amir Safari
 * 12.00-12.30 REFERAT zu Thema [5]: Jana Lin Lauruschkus
-* 13.25-13.55 Nachtrag REFERAT zu Thema [6]-[8]: Alexander Geyken 
+* 13.25-13.55 Nachtrag REFERAT zu Thema [6]-[7]: Alexander Geyken 
 * 13.55-14.25 Besprechung Übungsaufgaben (Nolda und DWDS-Korpora)
 * 14.30-15.30 (Gregor Middell BBAW/ZDL): Technische Aspekte der Arbeitsumgebung des DWDS und neuere Entwicklungen zur Belegextraktion
 * 15.30-15.45 Offene Punkte und Schluss
@@ -72,22 +72,25 @@ Tag 1 und 3 finden in Potsdam/Golm in Präsenz statt, Tag 2 und 4 per Zoom.
 
 ## Übungen
 
-[A]: Übungen zur Regionallexikografie, bearbeiten Sie bitte 3 der 7 Aufgaben,  
-s. letztes Seite der pdf-Präsentation von Andreas Nolda an Tag 1
+[A]: Übungen zur Regionallexikografie, bearbeiten Sie bitte 3 der 7 Aufgaben ihrer Wahl,   
+s. letzte Seite der ["pdf-Präsentation von Andreas Nolda an Tag 1"](folien_nolda_zdl-regionalkorpus.pdf) 
 
 [B]: Übung zu den Korpusabfragen im DWDS.
-- Verwenden Sie dafür das Metakorpus "Korpus DTA-Gesamt + DWDS-Kernkorpus" (https://www.dwds.de/d/korpora/dta+dwds) 
-- Formulieren Sie mit der Hilfe zu Korpussuche (https://www.dwds.de/d/korpussuche) folgende Abfragen
+- Verwenden Sie dafür das Metakorpus "Korpus DTA-Gesamt + DWDS-Kernkorpus" (https://www.dwds.de/d/korpora/dta+dwds). 
+- Formulieren Sie mit der [Hilfe zu Korpussuche](https://www.dwds.de/d/korpussuche) folgende Abfragen.
+- [Registrieren](https://www.dwds.de/profile/register)  Sie sich bitte auf dwds.de und melden Sie sich danach an (die Anmeldung ist kostenlos).
+- Führen Sie die Aufgaben 1-4 (unten) als **angemeldete** Nutzerin bzw. Nutzer durch.
 
-1. Ermitteln Sie, wie lange das Wort "Studierende" im Korpus verwendet wird. Schließen Sie dabei alle Singularverwendungen aus
-2. Formulieren Sie eine Suchabfrage für den Plural von Heimat und ermitteln Sie die Häufigkeitsverteilung nach Jahrzehnt im Korpus
-3. Ermitteln Sie alle Komposita mit Letztglied -schnee und geben diese Formen nach Häufigkeit sortiert aus. Das Ergebnis ist die Datei schnee.csv
-4. Schreiben Sie ein kleines Python-Script, das auf die API des DWDS zugreift (https://www.dwds.de/d/api#wb-api) und alle Wörter der Datei schnee.csv mit dem DWDS-Wörterbuch abgleicht. Wieviele Wörter aus schnee.csv sind im Wörterbuch und wieviele sind nicht im Wörterbuch. Was ist das höufigste Wort in der Liste schnee.csv, das nicht im Wörterbuch ist?  **Hinweis**: bitte probieren Sie das Script erst an einer kleinen Datei (max. 10 Einträge) aus; verwenden Sie keine Datei mit mehr als 150 Einträgen, da die API-Abfragen teuer sind.
+1. Formulieren Sie eine Suchabfrage für das Wort *Studierende*, wobei alle Verwendungen von *Studierende* im Singualar ausgeschlossen werden sollen. Seit wann ist die Verwendung von *Studierende* im Pl. in Gebrauch?
+2. Formulieren Sie eine Suchabfrage für den Plural von *Heimat* und ermitteln Sie die Häufigkeitsverteilung nach Jahrzehnt im Korpus.
+3. Ermitteln Sie alle Komposita mit Letztglied *-schnee* und geben diese Formen nach Häufigkeit sortiert aus; exportieren Sie das Ergebnis als csv-Datei: 'schnee.csv'.
+4. Schreiben Sie ein kleines Python-Script, das auf die API des DWDS zugreift (https://www.dwds.de/d/api#wb-api) und alle Wörter der Datei 'schnee.csv' mit dem DWDS-Wörterbuch abgleicht.
+4a. Wieviele Wörter aus schnee.csv sind im Wörterbuch und wieviele sind nicht im Wörterbuch.
+4b. Was sind die höufigsten drei Wörter in der Datei 'schnee.csv', die nicht im DWDS-Wörterbuch sind?
+Hinweis zu 4.: Bitte probieren Sie das Script erst an einer kleinen Datei (max. 10 Einträge) aus; verwenden Sie keine Datei mit mehr als 150 Einträgen, da die API-Abfragen teuer sind.
 
-Notwendige Voraussetzungen und Hinweise: 
-* Bitte melden Sie sich dazu auf der Website dwds.de an; (https://www.dwds.de/profile/register).
-* Führen Sie die Aufgaben 1-4 als **angemeldete** Nutzerin bzw. Nutzer durch
-* Hinweis Vertiefung zur Korpussuche: Sehen Sie sich die Blogreihe im DWDS mit den Titel "Nadel im Heuhaufen oder die Recherche in den Korpora des DWDS" an. Die Artikel finden Sie unter https://www.dwds.de/b/; https://www.dwds.de/b/nadeln-im-heuhaufen-oder-die-recherche-in-den-korpora-des-dwds-teil-1/
+**Weiterführende Informationen zur Korpussuche**
+Vertiefung zur Korpussuche: Sehen Sie sich die Blogreihe im DWDS mit den Titel "Nadel im Heuhaufen oder die Recherche in den Korpora des DWDS" an. Die Artikel finden Sie unter https://www.dwds.de/b/; dort können Sie mit der ersten Reihe starten: https://www.dwds.de/b/nadeln-im-heuhaufen-oder-die-recherche-in-den-korpora-des-dwds-teil-1/.
 
 
 
