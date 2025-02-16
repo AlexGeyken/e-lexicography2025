@@ -82,7 +82,7 @@ s. letztes Seite der pdf-Präsentation von Andreas Nolda an Tag 1
 1. Ermitteln Sie, wie lange das Wort "Studierende" im Korpus verwendet wird. Schließen Sie dabei alle Singularverwendungen aus
 2. Formulieren Sie eine Suchabfrage für den Plural von Heimat und ermitteln Sie die Häufigkeitsverteilung nach Jahrzehnt im Korpus
 3. Ermitteln Sie alle Komposita mit Letztglied -schnee und geben diese Formen nach Häufigkeit sortiert aus. Das Ergebnis ist die Datei schnee.csv
-4. Schreiben Sie ein kleines Script, das auf die API des DWDS zugreift (https://www.dwds.de/d/api#wb-api) und alle Wörter der Datei schnee.csv mit dem DWDS-Wörterbuch abgleicht. Wieviele Wörter aus schnee.csv sind im Wörterbuch und wieviele sind nicht im Wörterbuch. Was ist das höufigste Wort in der Liste schnee.csv, das nicht im Wörterbuch ist?  **Hinweis**: bitte probieren Sie das Script erst an einer kleinen Datei (max. 10 Einträge) aus; verwenden Sie keine Datei mit mehr als 150 Einträgen, da die API-Abfragen teuer sind.
+4. Schreiben Sie ein kleines Python-Script, das auf die API des DWDS zugreift (https://www.dwds.de/d/api#wb-api) und alle Wörter der Datei schnee.csv mit dem DWDS-Wörterbuch abgleicht. Wieviele Wörter aus schnee.csv sind im Wörterbuch und wieviele sind nicht im Wörterbuch. Was ist das höufigste Wort in der Liste schnee.csv, das nicht im Wörterbuch ist?  **Hinweis**: bitte probieren Sie das Script erst an einer kleinen Datei (max. 10 Einträge) aus; verwenden Sie keine Datei mit mehr als 150 Einträgen, da die API-Abfragen teuer sind.
 
 Notwendige Voraussetzungen und Hinweise: 
 * Bitte melden Sie sich dazu auf der Website dwds.de an; (https://www.dwds.de/profile/register).
