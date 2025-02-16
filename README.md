@@ -35,8 +35,8 @@ Tag 1 und 3 finden in Potsdam/Golm in Präsenz statt, Tag 2 und 4 per Zoom.
 * 10.15-12.30 (Anja Pfeiffer, BBAW/ZDL): "DWDS-Atelier - Workflow der Artikelerstellung im DWDS sowie gemeinsames Erstellen eines DWDS-Wörterbuchartikels  
 * 13.15-14.30 (Katrin Siebel / Bernhard Roll, BBAW/ZDL): Mehrwortausdrücke 
 * 14.30-15.00 REFERAT zu Thema [1]: Aleksandra Wroblewska
-* 14.30-15.00 REFERATE zu Thema [2]: Juliette Scheuing
-* 14.30-15.00 REFERATE zu Thema [3]: Jupp Krüger
+* 15.00-15.30 REFERATE zu Thema [2]: Juliette Scheuing
+* 15.30-16.00 REFERATE zu Thema [3]: Jupp Krüger
 
 ## Tag 4 (21.2.2025): Zoom
 * 10.00 in folgendem Zoom-Raum: https://us02web.zoom.us/j/83260937546?pwd=pQenASQjKnMoeQM8O44eSh0OfB3gcx.1
