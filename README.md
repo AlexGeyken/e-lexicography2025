@@ -28,20 +28,25 @@ Tag 1 und 3 finden in Potsdam/Golm in Präsenz statt, Tag 2 und 4 per Zoom.
   - [Foliensatz](TEI-Lex-0/slides-lexical-modeling.pdf)
   - [Übungsdaten](TEI-Lex-0/) (Lösungen werden nach der Veranstaltung ergänzt)
   - Voraussetzung ist ein bereits vorinstallierter XML-Editor, z.B. [Oxygen XML Editor](https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html) (30-Tage-Testversion)
-* 14-00-15.00 Praktische E-Lexikographie II: Mikrostruktur, Definitionen & Templates
-* 15.00-16.00 Hausaufgabe zur diatopischen Variation (cf. Tag 1: Nolda, letzte Folie)
+* 14-00-15.30 Praktische E-Lexikographie II: Mikrostruktur im Wörterbuch, Vorstellung der verschiedenen Korpora und Korpusabfragen, Verweis auf APIs
+* 15.30-16.00 Hausaufgabe zur diatopischen Variation (cf. Tag 1: Nolda, letzte Folie)
 
 ## Tag 3 (20.2.2025): Golm, Haus 14, R.0.09
 * 10.15-12.30 (Anja Pfeiffer, BBAW/ZDL): "DWDS-Atelier - Workflow der Artikelerstellung im DWDS sowie gemeinsames Erstellen eines DWDS-Wörterbuchartikels  
 * 13.15-14.30 (Katrin Siebel / Bernhard Roll, BBAW/ZDL): Mehrwortausdrücke 
-* 14.30-16.00 REFERATE 1-3
+* 14.30-15.00 REFERAT zu Thema [1]: Aleksandra Wroblewska
+* 14.30-15.00 REFERATE zu Thema [2]: Juliette Scheuing
+* 14.30-15.00 REFERATE zu Thema [3]: Jupp Krüger
 
 ## Tag 4 (21.2.2025): Zoom
 * 10.00 in folgendem Zoom-Raum: https://us02web.zoom.us/j/83260937546?pwd=pQenASQjKnMoeQM8O44eSh0OfB3gcx.1
-* 10.00-11.15 Praktische E-Lexikographie III (Kookkurrenzen und Kollokationen)  
-* 11.15-12.45 REFERATE 4-6 
-* 13.30-14.30 REFERATE 7-8
+* 10.15-11.25 Praktische E-Lexikographie III (Kookkurrenzen und Kollokationen)  
+* 11.30-12.00 REFERAT zu Thema [4]: Amir Safari
+* 12.00-12.30 REFERAT zu Thema [5]: Aleksandra Wroblewska
+* 13.25-13.55 Nachtrag REFERAT zu Thema [6]-[8]: Alexander Geyken 
+* 13.55-14.25 Besprechung Übungsaufgaben (Nolda und DWDS-Korpora)
 * 14.30-15.30 (Gregor Middell BBAW/ZDL): Technische Aspekte der Arbeitsumgebung des DWDS und neuere Entwicklungen zur Belegextraktion
+* 15.30-15.45 Offene Punkte und Schluss
 
 ## Themen für Referate:
 
