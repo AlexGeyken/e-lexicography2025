@@ -81,13 +81,13 @@ s. letztes Seite der pdf-Präsentation von Andreas Nolda an Tag 1
 
 1. Ermitteln Sie, wie lange das Wort "Studierende" im Korpus verwendet wird. Schließen Sie dabei alle Singularverwendungen aus
 2. Formulieren Sie eine Suchabfrage für den Plural von Heimat und ermitteln Sie die Häufigkeitsverteilung nach Jahrzehnt im Korpus
-3a. Ermitteln Sie alle Komposita mit Letztglied -schnee und geben diese Formen nach Häufigkeit sortiert aus. Das Ergebnis ist die Datei schnee.csv
-3b. Schreiben Sie ein kleines Script, das auf die API des DWDS zugreift (https://www.dwds.de/d/api#wb-api) und alle Wörter der Datei schnee.csv mit dem DWDS-Wörterbuch abgleicht. Wieviele Wörter aus schnee.csv sind im Wörterbuch und wieviele sind nicht im Wörterbuch. Was ist das höufigste Wort in der Liste schnee.csv, das nicht im Wörterbuch ist. 
+3. Ermitteln Sie alle Komposita mit Letztglied -schnee und geben diese Formen nach Häufigkeit sortiert aus. Das Ergebnis ist die Datei schnee.csv
+4. Schreiben Sie ein kleines Script, das auf die API des DWDS zugreift (https://www.dwds.de/d/api#wb-api) und alle Wörter der Datei schnee.csv mit dem DWDS-Wörterbuch abgleicht. Wieviele Wörter aus schnee.csv sind im Wörterbuch und wieviele sind nicht im Wörterbuch. Was ist das höufigste Wort in der Liste schnee.csv, das nicht im Wörterbuch ist?  **Hinweis**: bitte probieren Sie das Script erst an einer kleinen Datei (max. 10 Einträge) aus; verwenden Sie keine Datei mit mehr als 150 Einträgen, da die API-Abfragen teuer sind.
 
-Notwendige Voraussetzungen: 
-* Bitte melden Sie sich dazu auf der Website dwds.de an; (https://www.dwds.de/profile/register)
-* Für die Aufgabe benötigen Sie die Hilfe zu Korpussuche unter dwds.de: https://www.dwds.de/d/korpussuche
-* Vertiefung: Sehen Sie sich die Blogreihe im DWDS mit den Titel "Nadel im Heuhaufen oder die Recherche in den Korpora des DWDS" an. Die Artikel finden Sie unter https://www.dwds.de/b/; https://www.dwds.de/b/nadeln-im-heuhaufen-oder-die-recherche-in-den-korpora-des-dwds-teil-1/
+Notwendige Voraussetzungen und Hinweise: 
+* Bitte melden Sie sich dazu auf der Website dwds.de an; (https://www.dwds.de/profile/register).
+* Führen Sie die Aufgaben 1-4 als **angemeldete** Nutzerin bzw. Nutzer durch
+* Hinweis Vertiefung zur Korpussuche: Sehen Sie sich die Blogreihe im DWDS mit den Titel "Nadel im Heuhaufen oder die Recherche in den Korpora des DWDS" an. Die Artikel finden Sie unter https://www.dwds.de/b/; https://www.dwds.de/b/nadeln-im-heuhaufen-oder-die-recherche-in-den-korpora-des-dwds-teil-1/
 
 
 
