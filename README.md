@@ -89,6 +89,9 @@ s. letzte Seite der ["pdf-Präsentation von Andreas Nolda an Tag 1"](folien_nold
 4b. Was sind die höufigsten drei Wörter in der Datei 'schnee.csv', die nicht im DWDS-Wörterbuch sind?
 Hinweis zu 4.: Bitte probieren Sie das Script erst an einer kleinen Datei (max. 10 Einträge) aus; verwenden Sie keine Datei mit mehr als 150 Einträgen, da die API-Abfragen teuer sind.
 
+**Abgabe von A und B**
+Bitte bearbeiten Sie die Aufgaben [A] und [B] bis spätestens zum 26.2. und schicken Sie diese an geyken@bbaw.de
+
 **Weiterführende Informationen zur Korpussuche**
 Vertiefung zur Korpussuche: Sehen Sie sich die Blogreihe im DWDS mit den Titel "Nadel im Heuhaufen oder die Recherche in den Korpora des DWDS" an. Die Artikel finden Sie unter https://www.dwds.de/b/; dort können Sie mit der ersten Reihe starten: https://www.dwds.de/b/nadeln-im-heuhaufen-oder-die-recherche-in-den-korpora-des-dwds-teil-1/.
 
