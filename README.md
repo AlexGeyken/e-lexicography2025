@@ -32,7 +32,8 @@ Tag 1 und 3 finden in Potsdam/Golm in Präsenz statt, Tag 2 und 4 per Zoom.
 * 15.30-16.00 Hausaufgabe zur diatopischen Variation (cf. Tag 1: Nolda, letzte Folie)
 
 ## Tag 3 (20.2.2025): Golm, Haus 14, R.0.09
-* 10.15-12.30 (Anja Pfeiffer, BBAW/ZDL): "DWDS-Atelier - Workflow der Artikelerstellung im DWDS sowie gemeinsames Erstellen eines DWDS-Wörterbuchartikels  
+* 10.15-10.30 Vorbesprechung der ÜBungsaufgaben (s. unten, A+B)
+* 10.30-12.30 (Anja Pfeiffer, BBAW/ZDL): "DWDS-Atelier - Workflow der Artikelerstellung im DWDS sowie gemeinsames Erstellen eines DWDS-Wörterbuchartikels  
 * 13.15-14.30 (Katrin Siebel / Bernhard Roll, BBAW/ZDL): Mehrwortausdrücke 
 * 14.30-15.00 REFERAT zu Thema [1]: Aleksandra Wroblewska
 * 15.00-15.30 REFERATE zu Thema [2]: Juliette Scheuing
@@ -67,6 +68,29 @@ Tag 1 und 3 finden in Potsdam/Golm in Präsenz statt, Tag 2 und 4 per Zoom.
 [7] Carole Tiberius: A Lexicographic Practice Map of Europe. International Journal of Lexicography, Volume 37, Issue 1, March 2024, Pages 1–28. https://academic.oup.com/ijl/article/37/1/1/7296021
 
 [8] Literatur: Leichte Sprache. DIN SPEC (https://www.dinmedia.de/de/technische-regel-entwurf/din-spec-33429/364785446)
+
+
+## Übungen
+
+[A]: Übungen zur Regionallexikografie, bearbeiten Sie bitte 3 der 7 Aufgaben,  
+s. letztes Seite der pdf-Präsentation von Andreas Nolda an Tag 1
+
+[B]: Übung zu den Korpusabfragen im DWDS.
+- Verwenden Sie dafür das Metakorpus "Korpus DTA-Gesamt + DWDS-Kernkorpus" (https://www.dwds.de/d/korpora/dta+dwds) 
+- Formulieren Sie mit der Hilfe zu Korpussuche (https://www.dwds.de/d/korpussuche) folgende Abfragen
+
+1. Ermitteln Sie, wie lange das Wort "Studierende" im Korpus verwendet wird. Schließen Sie dabei alle Singularverwendungen aus
+2. Formulieren Sie eine Suchabfrage für den Plural von Heimat und ermitteln Sie die Häufigkeitsverteilung nach Jahrzehnt im Korpus
+3a. Ermitteln Sie alle Komposita mit Letztglied -schnee und geben diese Formen nach Häufigkeit sortiert aus. Das Ergebnis ist die Datei schnee.csv
+3b. Schreiben Sie ein kleines Script, das auf die API des DWDS zugreift (https://www.dwds.de/d/api#wb-api) und alle Wörter der Datei schnee.csv mit dem DWDS-Wörterbuch abgleicht. Wieviele Wörter aus schnee.csv sind im Wörterbuch und wieviele sind nicht im Wörterbuch. Was ist das höufigste Wort in der Liste schnee.csv, das nicht im Wörterbuch ist. 
+
+Notwendige Voraussetzungen: 
+* Bitte melden Sie sich dazu auf der Website dwds.de an; (https://www.dwds.de/profile/register)
+* Für die Aufgabe benötigen Sie die Hilfe zu Korpussuche unter dwds.de: https://www.dwds.de/d/korpussuche
+* Vertiefung: Sehen Sie sich die Blogreihe im DWDS mit den Titel "Nadel im Heuhaufen oder die Recherche in den Korpora des DWDS" an. Die Artikel finden Sie unter https://www.dwds.de/b/; https://www.dwds.de/b/nadeln-im-heuhaufen-oder-die-recherche-in-den-korpora-des-dwds-teil-1/
+
+
+
 
 
 
