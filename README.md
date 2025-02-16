@@ -32,7 +32,7 @@ Tag 1 und 3 finden in Potsdam/Golm in Präsenz statt, Tag 2 und 4 per Zoom.
 * 15.30-16.00 Hausaufgabe zur diatopischen Variation (cf. Tag 1: Nolda, letzte Folie)
 
 ## Tag 3 (20.2.2025): Golm, Haus 14, R.0.09
-* 10.15-10.30 Vorbesprechung der ÜBungsaufgaben (s. unten, A+B)
+* 10.15-10.30 Vorbesprechung der Übungsaufgaben (s. unten, A+B)
 * 10.30-12.30 (Anja Pfeiffer, BBAW/ZDL): "DWDS-Atelier - Workflow der Artikelerstellung im DWDS sowie gemeinsames Erstellen eines DWDS-Wörterbuchartikels  
 * 13.15-14.30 (Katrin Siebel / Bernhard Roll, BBAW/ZDL): Mehrwortausdrücke 
 * 14.30-15.00 REFERAT zu Thema [1]: Aleksandra Wroblewska
@@ -45,9 +45,8 @@ Tag 1 und 3 finden in Potsdam/Golm in Präsenz statt, Tag 2 und 4 per Zoom.
 * 11.30-12.00 REFERAT zu Thema [4]: Amir Safari
 * 12.00-12.30 REFERAT zu Thema [5]: Jana Lin Lauruschkus
 * 13.25-13.55 Nachtrag REFERAT zu Thema [6]-[7]: Alexander Geyken 
-* 13.55-14.25 Besprechung Übungsaufgaben (Nolda und DWDS-Korpora)
-* 14.30-15.30 (Gregor Middell BBAW/ZDL): Technische Aspekte der Arbeitsumgebung des DWDS und neuere Entwicklungen zur Belegextraktion
-* 15.30-15.45 Offene Punkte und Schluss
+* 14.00-15.15 (Gregor Middell BBAW/ZDL): Technische Aspekte der Arbeitsumgebung des DWDS und neuere Entwicklungen zur Belegextraktion
+* 15.15-15.30 Offene Punkte und Schluss
 
 ## Themen für Referate:
 
@@ -63,7 +62,7 @@ Tag 1 und 3 finden in Potsdam/Golm in Präsenz statt, Tag 2 und 4 per Zoom.
 
 [5] Miloš Jakubíček, Michael Rundell: The end of lexicography: Can ChatGPT outperform current tools for post-editing lexicography? (Proc. elex 2023: p 518-533)
 
-[6] Wendalyn Nichols : Invisible lexicographers, AI, and the Future of the Dictionary. Keynote elex 2023: https://youtu.be/xYpwftj_QQI?si=l51mySXaVe08_V3y
+[6] Wendalyn Nichols: Invisible lexicographers, AI, and the Future of the Dictionary. Keynote elex 2023: https://youtu.be/xYpwftj_QQI?si=l51mySXaVe08_V3y
 
 [7] Carole Tiberius: A Lexicographic Practice Map of Europe. International Journal of Lexicography, Volume 37, Issue 1, March 2024, Pages 1–28. https://academic.oup.com/ijl/article/37/1/1/7296021
 
