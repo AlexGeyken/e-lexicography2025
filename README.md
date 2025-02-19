@@ -35,16 +35,16 @@ Tag 1 und 3 finden in Potsdam/Golm in Präsenz statt, Tag 2 und 4 per Zoom.
 * 10.15-10.30 Vorbesprechung der Übungsaufgaben (s. unten, A+B)
 * 10.30-12.30 (Anja Pfeiffer, BBAW/ZDL): "DWDS-Atelier - Workflow der Artikelerstellung im DWDS sowie gemeinsames Erstellen eines DWDS-Wörterbuchartikels  
 * 13.15-14.30 (Katrin Siebel / Bernhard Roll, BBAW/ZDL): Mehrwortausdrücke 
-* 14.30-15.00 REFERAT zu Thema [1]: Aleksandra Wroblewska
-* 15.00-15.30 REFERATE zu Thema [2]: Juliette Scheuing
-* 15.30-16.00 REFERATE zu Thema [3]: Jupp Krüger
+* 14.30-15.00 REFERAT zu Thema [2]: Juliette Scheuing
+* 15.00-15.30 REFERATE zu Thema [3]: Jupp Krüger
 
 ## Tag 4 (21.2.2025): Zoom
 * 10.00 in folgendem Zoom-Raum: https://us02web.zoom.us/j/83260937546?pwd=pQenASQjKnMoeQM8O44eSh0OfB3gcx.1
 * 10.15-11.25 Praktische E-Lexikographie III (Kookkurrenzen und Kollokationen)  
 * 11.30-12.00 REFERAT zu Thema [4]: Amir Safari
 * 12.00-12.30 REFERAT zu Thema [5]: Jana Lin Lauruschkus
-* 13.25-13.55 Nachtrag REFERAT zu Thema [6]-[7]: Alexander Geyken 
+* 12.30-12.45 Nachtrag zu Thema [6]: Alexander Geyken
+* 13.25-13.55 REFERAT zu Thema [7]: Aleksandra Wroblewska 
 * 14.00-15.15 (Gregor Middell BBAW/ZDL): Technische Aspekte der Arbeitsumgebung des DWDS und neuere Entwicklungen zur Belegextraktion
 * 15.15-15.30 Offene Punkte und Schluss
 
