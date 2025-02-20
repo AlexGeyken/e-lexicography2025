@@ -84,6 +84,7 @@ s. letzte Seite der ["pdf-Präsentation von Andreas Nolda an Tag 1"](folien_nold
 2. Formulieren Sie eine Suchabfrage für den Plural von *Heimat* und ermitteln Sie die Häufigkeitsverteilung nach Jahrzehnt im Korpus.
 3. Ermitteln Sie alle Komposita mit Letztglied *-schnee* und geben diese Formen nach Häufigkeit sortiert aus; exportieren Sie das Ergebnis als csv-Datei: 'schnee.csv'.
 4. Schreiben Sie ein kleines Python-Script, das auf die API des DWDS zugreift (https://www.dwds.de/d/api#wb-api) und alle Wörter der Datei 'schnee.csv' mit dem DWDS-Wörterbuch abgleicht.
+
 4a. Wieviele Wörter aus schnee.csv sind im Wörterbuch und wieviele sind nicht im Wörterbuch.
 4b. Was sind die höufigsten drei Wörter in der Datei 'schnee.csv', die nicht im DWDS-Wörterbuch sind?
 Hinweis zu 4.: Bitte probieren Sie das Script erst an einer kleinen Datei (max. 10 Einträge) aus; verwenden Sie keine Datei mit mehr als 150 Einträgen, da die API-Abfragen teuer sind.
