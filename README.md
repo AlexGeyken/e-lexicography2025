@@ -45,7 +45,7 @@ Tag 1 und 3 finden in Potsdam/Golm in Präsenz statt, Tag 2 und 4 per Zoom.
 * 12.00-12.30 REFERAT zu Thema [5]: Jana Lin Lauruschkus
 * 12.30-12.45 Nachtrag zu Thema [6]: Alexander Geyken
 * 13.25-13.55 REFERAT zu Thema [7]: Aleksandra Wroblewska 
-* 14.00-15.15 (Gregor Middell BBAW/ZDL): Technische Aspekte der Arbeitsumgebung des DWDS und neuere Entwicklungen zur Belegextraktion
+* 14.00-15.15 (Gregor Middell BBAW/ZDL): Technische Aspekte der Arbeitsumgebung des DWDS 
 * 15.15-15.30 Offene Punkte und Schluss
 
 ## Themen für Referate:
